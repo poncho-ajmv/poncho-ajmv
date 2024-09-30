@@ -1,0 +1,29 @@
+name: Generate Snake Game
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'  # Ejecuta diariamente a la medianoche
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@v1.0.0
+        with:
+          github_user: 'poncho-ajmv'  # Tu usuario de GitHub
+          output: 'snake.svg'  # Archivo de salida
+
+      - name: Commit snake.svg
+        run: |
+          git config --local user.email "21000310@galileo.edu"  # Reemplaza con tu correo
+          git config --local user.name "poncho-ajmv"  # Reemplaza con tu nombre
+          git add snake.svg
+          git commit -m "Update snake game" || echo "No changes to commit"
+          git push
