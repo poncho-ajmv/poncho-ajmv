@@ -11,19 +11,21 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # Actualizamos el action de checkout a la versión 3
       - name: Check out the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Generate Snake
-        uses: Platane/snk@v1  # Cambié aquí
+        uses: Platane/snk@v2  # Actualiza a v2
         with:
-          github_user: 'poncho-ajmv'  # Tu usuario de GitHub
-          output: 'snake.svg'  # Archivo de salida
+          github_user_name: 'poncho-ajmv'  # Tu usuario de GitHub
+          svg_out_path: 'snake.svg'  # Archivo SVG de salida
+          gif_out_path: 'snake.gif'  # Opcional, genera un GIF
 
       - name: Commit snake.svg
         run: |
-          git config --local user.email "21000310@galileo.edu"  # Reemplaza con tu correo
-          git config --local user.name "poncho-ajmv"  # Reemplaza con tu nombre
-          git add snake.svg
+          git config --local user.email "21000310@galileo.edu"  # Tu correo
+          git config --local user.name "Poncho AJMV"  # Tu nombre
+          git add snake.svg snake.gif
           git commit -m "Update snake game" || echo "No changes to commit"
           git push
