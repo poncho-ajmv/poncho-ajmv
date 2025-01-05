@@ -19,11 +19,10 @@ I-am-poncho_ajmv@github
 🌱 Learning about trends in technology and entrepreneurship.  
 🌟 Main languages: Python, Java, and React  
 🚩 Enthusiastic about Linux and open-source tech  
-💖 A big fan of Star Wars; the Force is strong with this one!
+🤖 A big fan of Star Wars; the Force is strong with this one!
 🎵 Love electronic,country, lofi, and old-school music  
 
 ```
-
 
 <hr>
 
