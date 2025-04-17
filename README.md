@@ -46,10 +46,11 @@ I-am-poncho_ajmv@github
 
 <h2 align="center">🐍 GitHub Activity Snake</h2>
 
-<p align="center">
-  <img src="https://github.com/poncho-ajmv/poncho-ajmv/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake dark" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poncho-ajmv/poncho-ajmv/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poncho-ajmv/poncho-ajmv/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 
 
