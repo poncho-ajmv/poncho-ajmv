@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Hi, I'm poncho_ajmv! 
+Hello there, I'm poncho_ajmv! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
@@ -12,15 +12,15 @@ Hi, I'm poncho_ajmv!
 
 I-am-poncho_ajmv@github
 -------------------------
-💻 I am a university student in Systems Engineering.
-📚 I graduated in Sciences with an orientation in Computing.
-📝 I have a keen interest in Business and AI  
-🔭 Currently working on projects to improve user experiences.  
-🌱 Learning about trends in technology and entrepreneurship.  
-🌟 Main languages: Python, Java, and React  
-🚩 Enthusiastic about Linux and open-source tech  
-🤖 A big fan of Star Wars; the Force is strong with this one!
-🎵 Love electronic,country, lofi, and old-school music  
+💻 Systems Engineering student with a passion for tech.  
+📚 Background in Science with a focus on Computing.  
+🧠 Interested in Business and Cybersecurity.  
+🔭 Working on projects to enhance user experiences.  
+🌱 Constantly learning about tech trends and startups.  
+🌟 Main languages: Python, Java, C, and React.  
+🐧 Linux enthusiast and supporter of open-source culture.  
+🤖 Huge Star Wars fan — the Force guides my code!  
+🎵 Enjoys electronic, country, lofi, and retro music.  
 
 ```
 
