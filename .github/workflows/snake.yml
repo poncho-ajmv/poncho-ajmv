@@ -2,7 +2,7 @@ name: Generate GitHub Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Ejecuta todos los días a la medianoche
+    - cron: "0 0 * * *"  # Ejecuta todos los días a medianoche
   workflow_dispatch:
 
 jobs:
@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
       - name: Generate GitHub contribution snake
         uses: Platane/snk@v3
         with:
@@ -17,7 +20,7 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to GitHub
+      - name: Push the snake SVG to the output branch
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
