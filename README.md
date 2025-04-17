@@ -10,7 +10,7 @@ Hello there, I'm poncho_ajmv!
 
 ```
 
-I-am-poncho_ajmv@github
+poncho-ajmv@github
 -------------------------
 💻 Systems Engineering student with a passion for tech.  
 📚 Background in Science with a focus on Computing.  
