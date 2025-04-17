@@ -46,7 +46,7 @@ I-am-poncho_ajmv@github
 
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.gif?raw=true" alt="snake gif dark mode" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.gif?raw=true" alt="snake gif" />
 </p>
 
 
