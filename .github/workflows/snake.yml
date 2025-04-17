@@ -2,17 +2,16 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Ejecuta todos los días a medianoche
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 👉 Esto da permiso de escritura
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Generate GitHub Snake
+      - name: Generate GitHub Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: poncho-ajmv
@@ -20,7 +19,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
 
-      - name: Push to the output branch
-        uses: EndBug/add-and-commit@v9
+      - name: Push generated files to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          message: "Generate snake contribution graph"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
