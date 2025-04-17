@@ -16,7 +16,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
-          theme: github-dark   
+          args: --palette github-dark  # 👈 Esta es la forma correcta de forzar modo oscuro
 
       - name: Push generated snake to the output branch
         uses: crazy-max/ghaction-github-pages@v3
