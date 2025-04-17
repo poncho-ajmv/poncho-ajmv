@@ -43,10 +43,10 @@ I-am-poncho_ajmv@github
 <a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
 
-<div align="center">
-  <img src="https://github.com/poncho-ajmv/contribution-cal-snake/blob/master/animation/snake.gif"
-       alt="snake" />
-</div>
+<h2 align="center">🐍 My GitHub Contributions Snake</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/poncho-ajmv/poncho-ajmv/output/github-contribution-grid-snake.gif" alt="snake gif" />
+</p>
 
 
 
