@@ -18,15 +18,16 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
-          snake_color: '#39FF14'
-          background: 'dark'
-          animation_duration: 12s
+          # ⚠️ IMPORTANTE: esto "quema" el fondo oscuro en el archivo
+          color_snake: '#39FF14'
+          color_dots: '#161b22,#0e4429,#006d32,#26a641,#39d353'
+          background: '#0d1117'  # este valor es un color HEX, NO el string 'dark'
+          animation_duration: 10s
 
       - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
-          
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
