@@ -45,11 +45,12 @@ I-am-poncho_ajmv@github
 
 
 
-<h2 align="center">🐍 My GitHub Contribution Snake</h2>
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/poncho-ajmv/poncho-ajmv/output/github-contribution-grid-snake.gif" alt="snake gif dark mode" />
+<p align="center" style="background-color: #0d1117; padding: 10px; border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/poncho-ajmv/poncho-ajmv/output/github-contribution-grid-snake.gif" alt="snake gif dark" />
 </p>
+
 
 
 
