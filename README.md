@@ -44,7 +44,7 @@ poncho-ajmv@github
 </p>
 
 
-<h2 align="center">🐍 GitHub Activity Snake</h2>
+<h2 align="center">GitHub Activity Snake</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poncho-ajmv/poncho-ajmv/output/github-snake-dark.svg" />
