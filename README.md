@@ -14,7 +14,7 @@ poncho-ajmv@github
 -------------------------
 💻 Systems Engineering student with a passion for tech.  
 📚 Background in Science with a focus on Computing.  
-🧠 Interested in Business and Cybersecurity.  
+🧠 Interested in Business and Data Science.  
 🔭 Working on projects to enhance user experiences.  
 🌱 Constantly learning about tech trends and startups.  
 🌟 Main languages: Python, Java, C, and React.  
