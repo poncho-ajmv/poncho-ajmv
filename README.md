@@ -4,7 +4,7 @@
   </h1>
   <hr>
 
-  <img align="right" src="https://i.imgur.com/O3Lulcc.jpeg" alt="May the force be with you" width="340" />
+  <img align="right" src="https://i.imgur.com/O3Lulcc.jpeg" alt="May the force be with you" width="350" />
 
   ```bash
   poncho-ajmv@github
