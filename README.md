@@ -4,34 +4,26 @@
   </h1>
   <hr>
 
-<table>
-<tr>
-<td>
+  <img align="right" src="https://i.imgur.com/O3Lulcc.jpeg" alt="May the force be with you" width="340" />
 
-<pre>
-poncho-ajmv@github
-─────────────────────────────────────
-🧊 Data Engineer — leveling up to Mid 🚀
-🎓 Systems Engineer · Linux & open-source 🐧
-🛠️ Focused on data science, prediction,
-   data warehousing & automation
-📡 Next up: networking & CCNA 1
-🌟 Stack: Python · Java · React · ClickHouse
-🤖 Star Wars fan — the Force guides my code
-🎵 Electronic · country · lofi · retro music
-</pre>
+  ```bash
+  poncho-ajmv@github
+  ─────────────────────────────────────────────
+  🧊 Data Engineer — leveling up to Mid 🚀
+  🎓 Systems Engineer · Linux & open-source 🐧
+  🛠️ Focused on data science, prediction, data warehousing & automation
+  📡 Next up: networking & CCNA 1 certification
+  🌟 Stack: Python · Java · React · ClickHouse
+  🤖 Star Wars fan — the Force guides my code
+  🎵 Electronic · country · lofi · retro music
+  ```
 
-</td>
-<td rowspan="2" align="center" valign="middle">
-<img src="https://i.imgur.com/O3Lulcc.jpeg" alt="May the force be with you" width="290" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://images.weserv.nl/?url=media.giphy.com/media/EPKZHcFn1vdCWHXpYK/giphy.gif&w=540&h=350&fit=cover&a=top&output=gif&n=-1" alt="Captain Rex" width="340" />
-</td>
-</tr>
-</table>
+  <img align="right" src="https://dummyimage.com/3x220/d0d7de/d0d7de" alt="" />
+  <p align="center">
+    <img src="https://images.weserv.nl/?url=media.giphy.com/media/EPKZHcFn1vdCWHXpYK/giphy.gif&w=540&h=350&fit=cover&a=top&output=gif&n=-1" alt="Captain Rex" width="340" />
+  </p>
+
+  <br clear="all"/>
 
   <hr>
 
