@@ -17,6 +17,12 @@ poncho-ajmv@github
 🎵 Electronic · country · lofi · retro music
 ```
 
+<br clear="all"/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/EPKZHcFn1vdCWHXpYK/giphy.gif" alt="Captain Rex — Roger Roger" width="480" />
+</p>
+
 <hr>
 
 <h2 align="center">Technologies I Use 👨🏻‍💻</h2>
