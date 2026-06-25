@@ -38,9 +38,7 @@
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/Data%20Engineering-0d1117?style=for-the-badge&logo=apacheairflow&logoColor=00ff88&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/ClickHouse-0d1117?style=for-the-badge&logo=clickhouse&logoColor=00ff88&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00ff88&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/ETL%20%26%20DWH-0d1117?style=for-the-badge&logo=databricks&logoColor=00ff88&labelColor=0d1117" />
+   
   </p>
 
   <h2 align="center">Connect with me</h2>
