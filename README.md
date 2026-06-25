@@ -18,9 +18,12 @@
   🎵 Electronic · country · lofi · retro music
   ```
 
-  <img align="right" src="https://dummyimage.com/3x220/d0d7de/d0d7de" alt="" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://dummyimage.com/3x270/30363d/30363d" />
+    <img align="right" src="https://dummyimage.com/3x270/d1d9e0/d1d9e0" alt="" />
+  </picture>
   <p align="center">
-    <img src="https://images.weserv.nl/?url=media.giphy.com/media/EPKZHcFn1vdCWHXpYK/giphy.gif&w=540&h=350&fit=cover&a=top&output=gif&n=-1" alt="Captain Rex" width="340" />
+    <img src="https://images.weserv.nl/?url=media.giphy.com/media/EPKZHcFn1vdCWHXpYK/giphy.gif&w=540&h=350&fit=cover&a=top&output=gif&n=-1" alt="Captain Rex" width="440" />
   </p>
 
   <br clear="all"/>
