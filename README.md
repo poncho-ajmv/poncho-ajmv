@@ -11,7 +11,7 @@
   ─────────────────────────────────────────────
   🧊 Data Engineer — leveling up to Mid 🚀
   🎓 Systems Engineer · Linux & open-source 🐧
-  🛠️ Focused on data science, prediction, data warehousing & automation
+  🛠️ Focused on data science, data warehousing & automation
   📡 Next up: networking & CCNA 1 certification
   🌟 Stack: Python · Java · React · ClickHouse
   🤖 Star Wars fan — the Force guides my code
