@@ -30,7 +30,7 @@
 
   <hr>
 
-  <h2 align="center">Technologies I Use 👨🏻‍💻</h2>
+  <h2 align="center">Technologies I Use</h2>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,linux,react,html,css,py,java,c,vscode,js,mysql,bash,vim,aws,postgres,unity&perline=10&theme=dark" />
