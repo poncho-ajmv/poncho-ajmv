@@ -4,9 +4,7 @@
   </h1>
   <hr>
   <img align="right" src="https://i.imgur.com/O3Lulcc.jpeg" alt="May the force be with you" width="350" />
-
-
- ```bash
+  ```bash
   poncho-ajmv@github
   ─────────────────────────────────────────────
   - Data Engineer — leveling up to Mid 
@@ -17,14 +15,12 @@
   - Star Wars fan — the Force guides my code
   - Electronic · country · lofi · retro music
   ```
-
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://dummyimage.com/3x270/30363d/30363d" />
     <img align="right" src="https://dummyimage.com/3x270/d1d9e0/d1d9e0" alt="" />
   </picture>
   <p align="center">
-    <img src="https://images.weserv.nl/?url=media.giphy.com/media/EPKZHcFn1vdCWHXpYK/giphy.gif&w=540&h=350&fit=cover&a=top&output=gif&n=-1" alt="Captain Rex" width="440" />
+    <img src="https://images.weserv.nl/?url=media.giphy.com/media/EPKZHcFn1vdCWHXpYK/giphy.gif&w=540&h=350&fit=cover&a=top&output=gif&n=-1" alt="Captain Rex" width="363" />
   </p>
   <br clear="all"/>
   <hr>
