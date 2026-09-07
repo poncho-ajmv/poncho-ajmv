@@ -22,7 +22,7 @@
     <img align="right" src="https://dummyimage.com/3x270/d1d9e0/d1d9e0" alt="" />
   </picture>
   <p align="center">
-    <img src="https://images.weserv.nl/?url=media.giphy.com/media/EPKZHcFn1vdCWHXpYK/giphy.gif&w=540&h=350&fit=cover&a=top&output=gif&n=-1" alt="Captain Rex" width="363" />
+    <img src="https://images.weserv.nl/?url=media.giphy.com/media/EPKZHcFn1vdCWHXpYK/giphy.gif&w=540&h=350&fit=cover&a=top&output=gif&n=-1" alt="Captain Rex" width="380" />
   </p>
   <br clear="all"/>
   <hr>
