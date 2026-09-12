@@ -38,9 +38,9 @@
   <a href="mailto:alfonsojmoragav@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/email.png" alt="email" height="50" width="50" /></a>
   <a href="https://discordapp.com/users/957722095381540874" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   </p>
-  <h2 align="center">GitHub Activity Snake</h2>
+  <h2 align="center">GitHub Activity Galaga</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poncho-ajmv/poncho-ajmv/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poncho-ajmv/poncho-ajmv/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/poncho-ajmv/poncho-ajmv/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poncho-ajmv/poncho-ajmv/output/galaga-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poncho-ajmv/poncho-ajmv/output/galaga-contribution-graph.svg" />
+    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/poncho-ajmv/poncho-ajmv/output/galaga-contribution-graph.svg" />
   </picture>
